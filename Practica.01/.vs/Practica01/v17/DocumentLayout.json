@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|c:\\users\\crist_fmbbgue\\onedrive\\documentos\\tup\\progra2\\practica01\\practica01\\prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|solutionrelative:practica01\\prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\practica01\\repositorio\\implemenaciones\\facturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|solutionrelative:practica01\\repositorio\\implemenaciones\\facturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\practica01\\repositorio\\implemenaciones\\detallesfacturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|solutionrelative:practica01\\repositorio\\implemenaciones\\detallesfacturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\practica01\\repositorio\\contratos\\ifacturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|solutionrelative:practica01\\repositorio\\contratos\\ifacturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\practica01\\repositorio\\contratos\\idetallefacturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|solutionrelative:practica01\\repositorio\\contratos\\idetallefacturarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\practica01\\servicios\\comerciomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|solutionrelative:practica01\\servicios\\comerciomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\practica01\\repositorio\\implemenaciones\\formadepagorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|solutionrelative:practica01\\repositorio\\implemenaciones\\formadepagorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\practica01\\utilidades\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|solutionrelative:practica01\\utilidades\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\practica01\\utilidades\\parameterssql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|solutionrelative:practica01\\utilidades\\parameterssql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\practica01\\repositorio\\contratos\\itipoformapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56053881-434E-4F95-8B2B-68A3CB109B8D}|Practica01\\Practica01.csproj|solutionrelative:practica01\\repositorio\\contratos\\itipoformapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 536,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Repositorio\\Implemenaciones\\FacturaRepositorio.cs",
+              "RelativeDocumentMoniker": "Practica01\\Repositorio\\Implemenaciones\\FacturaRepositorio.cs",
+              "ToolTip": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Repositorio\\Implemenaciones\\FacturaRepositorio.cs",
+              "RelativeToolTip": "Practica01\\Repositorio\\Implemenaciones\\FacturaRepositorio.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAcwIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:48:28.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Prueba\\Program.cs",
+              "RelativeDocumentMoniker": "Practica01\\Prueba\\Program.cs",
+              "ToolTip": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Prueba\\Program.cs",
+              "RelativeToolTip": "Practica01\\Prueba\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:27:15.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetallesFacturaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Repositorio\\Implemenaciones\\DetallesFacturaRepositorio.cs",
+              "RelativeDocumentMoniker": "Practica01\\Repositorio\\Implemenaciones\\DetallesFacturaRepositorio.cs",
+              "ToolTip": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Repositorio\\Implemenaciones\\DetallesFacturaRepositorio.cs",
+              "RelativeToolTip": "Practica01\\Repositorio\\Implemenaciones\\DetallesFacturaRepositorio.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:37:45.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDetalleFacturaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Repositorio\\Contratos\\IDetalleFacturaRepositorio.cs",
+              "RelativeDocumentMoniker": "Practica01\\Repositorio\\Contratos\\IDetalleFacturaRepositorio.cs",
+              "ToolTip": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Repositorio\\Contratos\\IDetalleFacturaRepositorio.cs",
+              "RelativeToolTip": "Practica01\\Repositorio\\Contratos\\IDetalleFacturaRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:34:35.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFacturaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Repositorio\\Contratos\\IFacturaRepositorio.cs",
+              "RelativeDocumentMoniker": "Practica01\\Repositorio\\Contratos\\IFacturaRepositorio.cs",
+              "ToolTip": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Repositorio\\Contratos\\IFacturaRepositorio.cs",
+              "RelativeToolTip": "Practica01\\Repositorio\\Contratos\\IFacturaRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:36:17.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComercioManager.cs",
+              "DocumentMoniker": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Servicios\\ComercioManager.cs",
+              "RelativeDocumentMoniker": "Practica01\\Servicios\\ComercioManager.cs",
+              "ToolTip": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Servicios\\ComercioManager.cs",
+              "RelativeToolTip": "Practica01\\Servicios\\ComercioManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:50:07.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParametersSQL.cs",
+              "DocumentMoniker": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Utilidades\\ParametersSQL.cs",
+              "RelativeDocumentMoniker": "Practica01\\Utilidades\\ParametersSQL.cs",
+              "ToolTip": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Utilidades\\ParametersSQL.cs",
+              "RelativeToolTip": "Practica01\\Utilidades\\ParametersSQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:40:56.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormaDePagoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Repositorio\\Implemenaciones\\FormaDePagoRepositorio.cs",
+              "RelativeDocumentMoniker": "Practica01\\Repositorio\\Implemenaciones\\FormaDePagoRepositorio.cs",
+              "ToolTip": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Repositorio\\Implemenaciones\\FormaDePagoRepositorio.cs",
+              "RelativeToolTip": "Practica01\\Repositorio\\Implemenaciones\\FormaDePagoRepositorio.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:49:15.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Utilidades\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Practica01\\Utilidades\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Utilidades\\DataHelper.cs",
+              "RelativeToolTip": "Practica01\\Utilidades\\DataHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:38:57.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITipoFormaPago.cs",
+              "DocumentMoniker": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Repositorio\\Contratos\\ITipoFormaPago.cs",
+              "RelativeDocumentMoniker": "Practica01\\Repositorio\\Contratos\\ITipoFormaPago.cs",
+              "ToolTip": "C:\\Users\\crist_fmbbgue\\OneDrive\\Documentos\\TUP\\Progra2\\Practica01\\Practica01\\Repositorio\\Contratos\\ITipoFormaPago.cs",
+              "RelativeToolTip": "Practica01\\Repositorio\\Contratos\\ITipoFormaPago.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:36:57.536Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
